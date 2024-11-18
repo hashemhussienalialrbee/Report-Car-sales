@@ -31,7 +31,7 @@ The data was prepared using *Excel* before being imported into *Power BI*.
 4. *Sales Trends*: A line chart illustrating monthly trends throughout the year.
 
 ### Sample Dashboard:
-![Dashboard Screenshot](Sales-car/IMAG/Reportcar.png)
+![Dashboard Screenshot](path/to/Sales-car/IMAG/Reportcar.png)
 
 ---Sales-car/IMAG/Report car.png
 
