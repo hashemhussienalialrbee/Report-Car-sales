@@ -29,12 +29,7 @@ The data was prepared using *Excel* before being imported into *Power BI*.
 2. *Brand Analysis*: Sales distribution across different car brands.  
 3. *Geographic Performance*: An interactive map showing sales distribution by region.  
 4. *Sales Trends*: A line chart illustrating monthly trends throughout the year.
-
-### Sample Dashboard:
-![Dashboard Screenshot](path/to/Sales-car/IMAG/Reportcar.png)
-
----Sales-car/IMAG/Report car.png
-
+---
 ## Tools and Technologies
 - *Power BI Desktop*: For data analysis and interactive dashboard design.  
 - *Excel*: For data cleaning and preparation.  
